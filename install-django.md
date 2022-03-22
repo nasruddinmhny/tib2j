@@ -24,3 +24,6 @@ mk pemrograman web(django)
 3.lakukan langkah yg pertama untuk melihat versi dijango
 
 #untuk melakukan install sesuai versi pip install django==versi
+
+clone :
+https://github.com/nasruddinmhny/tib2j.git
