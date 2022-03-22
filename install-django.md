@@ -21,7 +21,7 @@ mk pemrograman web(django)
 #install django
 1. untuk melihat package yang telah tersintall ketikkan pip list.
 2. untuk melakukan penginstalan django ketikkan pip install django
-3.lakukan langkah yg pertama untuk melihat versi dijango
+3. lakukan langkah yg pertama untuk melihat versi dijango
 
 #untuk melakukan install sesuai versi pip install django==versi
 
